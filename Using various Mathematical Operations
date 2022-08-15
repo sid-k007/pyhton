@@ -1,0 +1,12 @@
+x=5
+y=6
+r=8
+π=3.17
+D=π*r*r
+z=x+y
+A=x*y
+B=x/y
+print(z)
+print(A)
+print(B)
+print(D)
